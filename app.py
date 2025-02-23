@@ -195,7 +195,7 @@ st.success("🎉 All Files Processed!")
 st.markdown("---")
 st.markdown("""
     <div style="text-align: center; padding: 10px;">
-        <p>Made with ❤️ by <a href="https://www.linkedin.com/in/samrashafiq16/" target="_blank">Rubina Shafiq</a></p>
+        <p>Made with ❤️ by <a href="https://www.linkedin.com/in/rubina-shafiq-0a2236325" target="_blank">Rubina Shafiq</a></p>
     </div>
     """, unsafe_allow_html=True)
 
